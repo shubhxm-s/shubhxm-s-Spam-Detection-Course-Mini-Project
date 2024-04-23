@@ -1,5 +1,4 @@
 # shubhxm-s-Spam-Detection-Course-Mini-Project
-# shubhxm-s-Spam-Detection-Course-Mini-Project
 
 ## Table of Contents
 1.Introduction
